@@ -1,0 +1,10 @@
+* template
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/template.git   |
+| commit  | 8541019  |
+| systems | template |
+|---------+-------------------------------------------|
+
